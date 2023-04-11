@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "3e0da1f5-3b40-49f5-b273-822733928337",
+      "name": "Disha Pradhan",
+      "email": "dishapradhan81@gmail.com"
+    },
+    {
+      "id": "62eb221d-abd0-4507-9b7d-00f906577631",
+      "name": "Emma",
+      "email": "emma@gmail.com"
+    },
+    {
+      "id": "fb0b9952-ca64-4df6-85c8-fde4b43c7654",
+      "name": "Alex",
+      "email": "alex@gmail.com"
+    },
+    {
+      "id": "d9740b7a-8b7e-4ab8-b507-988ccb5a0267",
+      "name": "Steve",
+      "email": "steve@gmail.com"
+    },
+    {
+      "id": "1eaaa870-1970-4860-a206-7b2ca5dfecba",
+      "name": "Neha",
+      "email": "neha@gmail.com"
+    },
+    {
+      "id": "16aa58ce-7e8f-48fc-8e14-68ed255f9112",
+      "name": "Emma Watson",
+      "email": "emmaw@gmail.com"
+    },
+    {
+      "id": "0216b57f-61f5-449c-86ca-65d0b7701f77",
+      "name": "Kate",
+      "email": "kate@gmail.com"
+    },
+    {
+      "id": "ad1a4b94-e0f2-4f33-b503-1b13c01e9b8a",
+      "name": "Juile",
+      "email": "julie@gmail.com"
+    },
+    {
+      "id": "8a6bc477-d579-4be8-87db-f1400e5cc6ea",
+      "name": "Stephene",
+      "email": "Steph@gmail.com"
+    }
+  ]
+}
